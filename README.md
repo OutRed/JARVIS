@@ -28,7 +28,7 @@ This will be available soon, as it is still in the making. If you want to be a b
 - OpenAI API Key
 Because JARVIS and the ChatGPT app is not on the MacOS App Store, JARVIS has been adapted to a Shortcut that requires an OpenAI API key.
 
-First, add the shortcut to your Mac [here](https://).
+First, add the shortcut to your Mac [here](https://www.icloud.com/shortcuts/9be4311427214aa6812b9f4b1f364177).
 
 After that, to use JARVIS simply activate Siri on your Mac and say "Hey Jarvis", and JARVIS will respond with "Hello, how can I assist you today?", or whatever you set it to say. Customizing the shortcut is pretty self explanatory. It's that easy.
 ## iOS Usage
@@ -38,7 +38,7 @@ After that, to use JARVIS simply activate Siri on your Mac and say "Hey Jarvis",
 - iOS 15+
 Because JARVIS is not on the App Store, it has been adapted as a shortcut.
 
-First, add the shortcut to your iPhone [here](https://).
+First, add the shortcut to your iPhone [here](https://www.icloud.com/shortcuts/9be4311427214aa6812b9f4b1f364177).
 
 Once you've done that, activate Siri and simply say "Hey Jarvis" and JARVIS will respond with "Hello, how can I assist you today?", or whatever you set it to say. Customizing the shortcut is pretty self explanatory. It's that easy.
 ## Authors
