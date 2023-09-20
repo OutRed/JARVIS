@@ -20,7 +20,7 @@ JARVIS is a voice assistant that can be used on iPhone and your PC/Mac. It uses 
 ### Requirements
 - Python 3.11.5 or higher
 - OpenAI API Key
-- 
+  
 This will be available soon, as it is still in the making. If you want to be a beta tester, email me at outred@outred.dev.
 ## MacOS Usage
 ### Requirements
