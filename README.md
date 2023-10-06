@@ -22,9 +22,9 @@ JARVIS is a voice assistant that can be used on iPhone and your PC/Mac. It uses 
 - OpenAI API Key
 
 ### Installation
-First, clone the repository.
+First, clone the repository by putting this in your terminal
 ```bash
-   git clone https://github.com/OutRed/JARVIS.git
+git clone https://github.com/OutRed/JARVIS.git
 ```
 Next,
   
