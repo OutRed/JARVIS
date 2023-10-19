@@ -1,6 +1,6 @@
 # JARVIS (Update: Shortcut links work now)
 
-JARVIS is a voice assistant that can be used on iPhone and your PC/Mac. It uses GPT-3.5 Turbo and it's personality is customizable. THIS IS STILL IN DEVELOPMENT.
+JARVIS is a voice assistant that can be used on iPhone and your PC/Mac. It uses GPT-3.5 Turbo and it's personality is customizable. THIS IS STILL IN DEVELOPMENT. If you want to beta test, hit up my email at support@outred.org
 
 
 ## Features
@@ -28,7 +28,7 @@ git clone https://github.com/OutRed/JARVIS.git
 ```
 Next,
   
-This will be available soon, as it is still in the making. If you want to be a beta tester, email me at outred@outred.dev.
+This will be available soon, as it is still in the making. If you want to be a beta tester, email me at support@outred.org.
 ## MacOS Usage
 ### Requirements
 - Any Mac Device
